@@ -1,0 +1,17 @@
+.line {
+    height: 6px;
+    background-color: white;
+    width: 70px;
+    margin: 8px auto;
+}
+h1 {
+    text-align: center;
+}
+body {
+    background: cyan;
+}
+img {
+    width: 750px;
+    height: 750px;
+    margin: 8px;
+}
